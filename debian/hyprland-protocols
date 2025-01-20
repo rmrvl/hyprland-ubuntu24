@@ -1,0 +1,6 @@
+Package: hyprland-protocols
+Version: 0.6.0
+Priority: optional
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://github.com/hyprwm/hyprland-protocols
+Architecture: amd64

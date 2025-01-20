@@ -1,0 +1,7 @@
+Package: hyprcursor
+Version: 0.1.11
+Priority: optional
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://github.com/hyprwm/hyprcursor
+Architecture: amd64
+Description: The hyprland cursor format, library and utilities.

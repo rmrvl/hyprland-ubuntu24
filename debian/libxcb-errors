@@ -1,0 +1,7 @@
+Package: libxcb-errors-git
+Version: 1.0.1
+Priority: optional
+Section: libs
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://xcb.freedesktop.org
+Architecture: amd64

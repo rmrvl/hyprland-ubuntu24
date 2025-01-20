@@ -1,0 +1,7 @@
+Package: libsdbus-git
+Version: 2.1.0
+Priority: optional
+Section: libs
+Maintainer: Shengjing Zhu <zhsj@debian.org>
+Homepage: https://github.com/Kistler-Group/sdbus-cpp
+Architecture: amd64

@@ -1,0 +1,6 @@
+Package: pipewire-git
+Version: 1.3.0
+Priority: optional
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://pipewire.org/
+Architecture: amd64

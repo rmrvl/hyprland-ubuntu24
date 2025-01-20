@@ -1,0 +1,6 @@
+Package: hyprpaper
+Version: 0.7.3
+Priority: optional
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://github.com/hyprwm/hyprpaper
+Architecture: amd64

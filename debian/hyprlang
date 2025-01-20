@@ -1,0 +1,7 @@
+Package: hyprlang
+Version: 0.6.0
+Priority: optional
+Section: libs
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://github.com/hyprwm/hyprlang
+Architecture: amd64

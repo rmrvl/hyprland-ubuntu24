@@ -1,0 +1,8 @@
+Package: hyprland
+Version: 0.46.2
+Priority: optional
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://hyprland.org/
+Architecture: amd64
+Depends: libseat1, libdisplay-info1, libzip4t64, libtomlplusplus3t64, kitty, waybar, xwayland, wofi, clipman
+Description: Debian package for hyprland window manager

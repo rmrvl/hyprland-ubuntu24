@@ -1,0 +1,6 @@
+Package: hyprpicker
+Version: 0.4.2
+Priority: optional
+Maintainer: Vaxry <vaxry@vaxry.net>
+Homepage: https://github.com/hyprwm/hyprpicker 
+Architecture: amd64
