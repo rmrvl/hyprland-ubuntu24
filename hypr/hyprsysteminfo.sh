@@ -1,4 +1,4 @@
-ODIR=/opt/hyprsysteminfo/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone --recursive https://github.com/hyprwm/hyprsysteminfo.git
 cd hyprsysteminfo/

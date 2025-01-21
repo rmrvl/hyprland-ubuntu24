@@ -1,4 +1,4 @@
-ODIR=/opt/hyprsunset/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone --recursive https://github.com/hyprwm/hyprsunset.git
 cd hyprsunset/

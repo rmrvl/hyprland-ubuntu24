@@ -1,4 +1,4 @@
-ODIR=/opt/hyprlang/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 echo Building libhyprlang
 git clone --recursive https://github.com/hyprwm/hyprlang.git

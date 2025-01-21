@@ -1,4 +1,4 @@
-ODIR=/opt/hyprpicker/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone --recursive https://github.com/hyprwm/hyprpicker.git
 cd hyprpicker

@@ -1,4 +1,4 @@
-ODIR=/opt/hyprpaper/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone --recursive https://github.com/hyprwm/hyprpaper.git
 cd hyprpaper

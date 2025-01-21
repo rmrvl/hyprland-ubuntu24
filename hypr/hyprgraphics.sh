@@ -1,4 +1,4 @@
-ODIR=/opt/hyprgraphics/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 echo Building libhyprgraphics
 git clone --recursive https://github.com/hyprwm/hyprgraphics.git

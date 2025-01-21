@@ -1,8 +1,0 @@
-Package: hyprgraphics
-Version: 0.1.1
-Priority: optional
-Section: libs
-Maintainer: Vaxry <vaxry@vaxry.net>
-Homepage: https://github.com/hyprwm/hyprgraphics
-Architecture: amd64
-Description: Hyprgraphics is a small C++ library with graphics / resource related utilities used across the hypr* ecosystem.

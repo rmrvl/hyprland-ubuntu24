@@ -1,6 +1,0 @@
-Package: hyprwayland-scanner 
-Version: 0.4.4
-Priority: optional
-Maintainer: Vaxry <vaxry@vaxry.net>
-Homepage: https://github.com/hyprwm/hyprwayland-scanner 
-Architecture: amd64

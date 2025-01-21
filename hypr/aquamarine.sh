@@ -1,4 +1,4 @@
-ODIR=/opt/aquamarine/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 echo Building aquamarine
 git clone --recursive https://github.com/hyprwm/aquamarine.git

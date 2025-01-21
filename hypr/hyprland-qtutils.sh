@@ -1,4 +1,4 @@
-ODIR=/opt/hyprland-qtutils/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 echo Building libhyprland-qtutils
 git clone --recursive https://github.com/hyprwm/hyprland-qtutils.git

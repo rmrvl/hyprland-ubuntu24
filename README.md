@@ -20,11 +20,21 @@ bash /home/ubuntu/build.sh
 
 ## Get the binaries
 
-From outside the pod, just run the command `podman cp hypr:/opt build/`
+From outside the pod, just run the command 
+```
+podman cp hypr:/opt debian/opt
+rm -rf debian/opt/hyprland/include
+rm -rf debian/opt/dependencies-hyprland/include
+mkdir -p debian/usr/libexec debian/usr/local/lib
+mv debian/opt/hyprland/share/ debian/usr/local/
+mv debian/opt/hyprland/lib/systemd debian/usr/local/lib/
+mv debian/opt/hyprland/lib/pkgconfig debian/usr/local/lib/
+podman cp hypr:/usr/libexec/xdg-desktop-portal-hyprland debian/usr/libexec
+```
 
 
 # Create Debian Packages
 
 ```
-bash pkg-build.sh
+dpkg-deb --build --root-owner-group debian
 ```

@@ -1,4 +1,4 @@
-ODIR=/opt/libxcb-errors/usr/local
+ODIR=/opt/dependencies-hyprland
 UDIR=/usr
 git clone --recursive https://gitlab.freedesktop.org/xorg/lib/libxcb-errors
 cd libxcb-errors

@@ -1,8 +1,0 @@
-Package: aquamarine
-Version: 0.7.1
-Priority: optional
-Section: libs
-Maintainer: Vaxry <vaxry@vaxry.net>
-Homepage: https://github.com/hyprwm/aquamarine
-Architecture: amd64
-Description: Aquamarine is a very light linux rendering backend library. It provides basic abstractions for an application to render on a Wayland session (in a window) or a native DRM session.

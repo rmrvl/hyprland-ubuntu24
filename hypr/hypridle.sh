@@ -1,4 +1,4 @@
-ODIR=/opt/hypridle/usr/local
+ODIR=/opt/hyprland
 git clone --recursive https://github.com/hyprwm/hypridle.git
 cd hypridle
 cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -DCMAKE_INSTALL_PREFIX:PATH=$ODIR -S . -B ./build

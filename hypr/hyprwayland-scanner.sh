@@ -1,4 +1,4 @@
-ODIR=/opt/hyprwayland-scanner/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 echo Building libhyprwayland-scanner
 git clone --recursive https://github.com/hyprwm/hyprwayland-scanner.git

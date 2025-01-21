@@ -1,4 +1,4 @@
-ODIR=/opt/libva-wayland/usr/local
+ODIR=/opt/dependencies-hyprland
 UDIR=/usr
 git clone https://github.com/intel/libva
 cd libva

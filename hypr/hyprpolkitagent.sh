@@ -1,4 +1,4 @@
-ODIR=/opt/hyprpolkitagent/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone --recursive https://github.com/hyprwm/hyprpolkitagent.git
 cd hyprpolkitagent/

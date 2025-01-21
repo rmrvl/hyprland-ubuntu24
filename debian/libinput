@@ -1,7 +1,0 @@
-Package: libinput-git
-Version: 1.27.1
-Priority: optional
-Section: libs
-Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
-Homepage: https://www.freedesktop.org/wiki/Software/libinput/
-Architecture: amd64

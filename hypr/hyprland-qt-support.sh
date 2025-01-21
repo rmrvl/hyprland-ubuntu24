@@ -1,4 +1,4 @@
-ODIR=/opt/hyprland-qt-support/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone --recursive https://github.com/hyprwm/hyprland-qt-support.git
 cd hyprland-qt-support/

@@ -1,4 +1,4 @@
-ODIR=/opt/libsdbus/usr/local
+ODIR=/opt/dependencies-hyprland
 UDIR=/usr
 git clone https://github.com/Kistler-Group/sdbus-cpp.git
 cd sdbus-cpp

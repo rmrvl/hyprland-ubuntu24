@@ -1,4 +1,4 @@
-ODIR=/opt/hyprcursor/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 echo Building libhyprcursor
 git clone --recursive https://github.com/hyprwm/hyprcursor.git

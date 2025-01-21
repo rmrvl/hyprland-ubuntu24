@@ -1,7 +1,0 @@
-Package:  xdg-desktop-portal-hyprland
-Version: 1.3.9
-Priority: optional
-Section: libs
-Maintainer: Vaxry <vaxry@vaxry.net>
-Homepage: https://github.com/hyprwm/xdg-desktop-portal-hyprland
-Architecture: amd64

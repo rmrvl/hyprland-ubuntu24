@@ -1,4 +1,4 @@
-ODIR=/opt/hyprutils/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 echo Building libhyprutils
 git clone --recursive https://github.com/hyprwm/hyprutils.git

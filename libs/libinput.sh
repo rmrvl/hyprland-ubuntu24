@@ -1,4 +1,4 @@
-ODIR=/opt/libinput/usr/local
+ODIR=/opt/dependencies-hyprland
 UDIR=/usr
 git clone https://gitlab.freedesktop.org/libinput/libinput
 cd libinput

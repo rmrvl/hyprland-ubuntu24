@@ -1,4 +1,4 @@
-ODIR=/opt/hyprlock/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone --recursive https://github.com/hyprwm/hyprlock.git
 cd hyprlock

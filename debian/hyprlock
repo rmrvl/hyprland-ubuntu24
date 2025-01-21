@@ -1,6 +1,0 @@
-Package: hyprlock
-Version: 0.6.1
-Priority: optional
-Maintainer: Vaxry <vaxry@vaxry.net>
-Homepage: https://github.com/hyprwm/hyprlock
-Architecture: amd64

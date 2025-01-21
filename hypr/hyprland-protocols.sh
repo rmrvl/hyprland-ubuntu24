@@ -1,4 +1,4 @@
-ODIR=/opt/hyprland-protocols/usr/local
+ODIR=/opt/hyprland
 UDIR=/usr
 git clone https://github.com/hyprwm/hyprland-protocols.git
 cd hyprland-protocols
